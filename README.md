@@ -2,7 +2,7 @@
 This repository is made to be the highest and biggest project structure ever in my Repo :) 
 Happy Reading
 
-The Core
+## The Core
 repo link : 
 - Made for Robustness, Powerfull, and Stable
 - Using Java as Primary language of Backend Services
@@ -11,11 +11,11 @@ repo link :
 - Redis really fast storage access
 - Documented with swagger
 
-The Frontliner
+## The Frontliner
 
 
-The Portal & Balancer
+## The Portal & Balancer
 
 
-Deployments
+## Deployments
 
